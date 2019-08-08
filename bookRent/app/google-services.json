@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "884924299648",
+    "firebase_url": "https://bookrent-9de28.firebaseio.com",
+    "project_id": "bookrent-9de28",
+    "storage_bucket": "bookrent-9de28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884924299648:android:d5cfafdcec989024",
+        "android_client_info": {
+          "package_name": "com.example.mahesh.BookRent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884924299648-b554bt5dqmdj5mokqab9m40ko5v374pn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahesh.BookRent",
+            "certificate_hash": "1aeadff2abbfea0d376d4eea76751794a3808154"
+          }
+        },
+        {
+          "client_id": "884924299648-0j26t6eb2c72nkke5th4vft7p67duhr3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6_UbXhKg9uuzm1YCvWyK2SXbuEw0ESJY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884924299648-0j26t6eb2c72nkke5th4vft7p67duhr3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
